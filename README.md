@@ -45,4 +45,4 @@ At the end of the workshop there's an open-ended challenge — take what you've 
 
 Built and presented live by [@TalenMud](https://github.com/TalenMud) at MLH Global Hack Week — Season Kickoff.
 
-Follow along on Dev.to: [blog link]
+Follow along with the workshop on [YouTube](https://www.youtube.com/).
